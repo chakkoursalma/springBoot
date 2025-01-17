@@ -1,0 +1,9 @@
+com\example\entity\StadeEntity.class
+com\example\service\JoueuerService.class
+com\example\entity\MatchEntity.class
+com\example\football\FootballApplication.class
+com\example\entity\JoueuerEntity.class
+com\example\entity\EquipeEntity.class
+com\example\repository\JoueuerRepository.class
+com\example\entity\ArbitreEntity.class
+com\example\controller\JoueuerController.class
